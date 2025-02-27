@@ -1,7 +1,8 @@
 <h2>About me</h2>
-<p>Atualmente estudante de Análise de Sistemas
-  Focado em Java e o ecossistema Spring
-  aprendendo constanmente e focado em evoluir.
+<p>Atualmente estudante de Análise de Sistemas</p>
+ <p> Focado em Java e o ecossistema Spring</p>
+ <p>aprendendo constantemente e focado em evoluir.</p>
+ <p>Backend <3 </p>
 </p>
 
 
