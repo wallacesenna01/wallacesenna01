@@ -1,3 +1,13 @@
+<h2>About me</h2>
+<p>Atualmente estudante de Análise de Sistemas
+  Focado em Java e o ecossistema Spring
+  aprendendo constanmente e focado em evoluir.
+</p>
+
+
+
+
+
 <h2 align="left">Stats</h2>
 
 ###
