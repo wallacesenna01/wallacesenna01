@@ -1,22 +1,34 @@
-<h2>About me</h2>
-<p>Atualmente estudante de Análise de Sistemas</p>
- <p> Focado em Java e o ecossistema Spring</p>
- <p>aprendendo constantemente e focado em evoluir.</p>
- <p>Backend <3 </p>
-</p>
+Desenvolvedor Backend • Analista de Sistemas
+Apaixonado por tecnologia, arquitetura de software e criação de soluções inteligentes.
 
+Atualmente atuo no desenvolvimento de sistemas utilizando:
 
+🚀 Tecnologias & Stacks
 
+Backend: Java (Spring Boot), Python (FastAPI), Node/TypeScript
 
+APIs: REST, integração entre serviços, automações e microserviços
 
-<h2 align="left">Stats</h2>
+Bancos de Dados: MySQL, PostgreSQL, H2, Redis
 
-###
+Ferramentas & DevOps: Git/GitHub, Docker, Render, Vercel, Cloudflare
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wallacesenna01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wallacesenna01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wallacesenna01&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+IA & Automação: criação de assistentes, bots, fluxos inteligentes, análise de dados
 
-###
+Outros: testes, log, boas práticas, arquitetura limpa
+
+📚 Formação
+
+Analista de Sistemas
+
+Especialização contínua em Backend, APIs e Arquitetura
+
+🔥 O que me move
+
+Evolução constante
+
+Criação de soluções reais
+
+Código limpo, eficiente e escalável
+
+Aprender, aplicar, e entregar resultados
